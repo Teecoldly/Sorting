@@ -1,0 +1,18 @@
+﻿  Sorting.cpp
+c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(138): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(190): note: see reference to function template instantiation 'void insertionsort<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(77): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(214): note: see reference to function template instantiation 'void quicksort<int>(std::vector<int,std::allocator<_Ty>> &,int,int)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\teecoldly\desktop\sorting\sorting\sorting\sorting.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  Sorting.vcxproj -> C:\Users\TEECOLDLY\Desktop\sorting\Sorting\Debug\Sorting.exe
